@@ -105,7 +105,7 @@ So the example is working, lets run the actual thing:
 data = CSV.File("data", header=["x",]).x
 
 # ╔═╡ 7f643ace-3bdc-44a1-af6b-7fff06c8b5cf
-solution(data)
+solution_1(data)
 
 # ╔═╡ 4cbb5f80-7916-4960-b204-d1396f251b73
 md"
